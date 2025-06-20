@@ -3879,7 +3879,7 @@ img {
 
 section {
   position: relative;
-  background-color: orange;
+  background-color: #ff3300;
   overflow: hidden;
   min-height: 100vh; /* možeš prilagoditi visinu po potrebi */
 }
