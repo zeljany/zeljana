@@ -3877,8 +3877,9 @@ img {
   opacity: 1 !important;
 }
 
-.spotlight .image {
+.image {
 	background-color: black !important;
+	min-height: 100vh;
 }
 
 	}
