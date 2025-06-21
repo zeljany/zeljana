@@ -3288,7 +3288,7 @@ input, select, textarea {
 			}
 
 				#wrapper > section > header h1:before, #wrapper > section > header h2:before {
-					background: #ffffff;
+					background: #000000;
 					content: '';
 					display: block;
 					height: 2px;
@@ -3297,7 +3297,7 @@ input, select, textarea {
 				}
 
 				#wrapper > section > header h1:after, #wrapper > section > header h2:after {
-					background: #ffffff;
+					background: #000000;
 					border-radius: 0.5rem;
 					content: '';
 					display: block;
